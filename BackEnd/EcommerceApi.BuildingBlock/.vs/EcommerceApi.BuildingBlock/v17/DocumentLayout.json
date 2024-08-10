@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.mapper\\automappers\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|solutionrelative:buildingblock.mapper\\automappers\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.mapper\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|solutionrelative:buildingblock.mapper\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3234CFB-73B9-4F5D-BBBC-6219F0871F64}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\automapper\\iautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C26A46-EA0E-4AE2-9F11-9FFEE5C606D8}|BuildingBlock.Bus\\BuildingBlock.Bus.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.bus\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C26A46-EA0E-4AE2-9F11-9FFEE5C606D8}|BuildingBlock.Bus\\BuildingBlock.Bus.csproj|solutionrelative:buildingblock.bus\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C26A46-EA0E-4AE2-9F11-9FFEE5C606D8}|BuildingBlock.Bus\\BuildingBlock.Bus.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.bus\\queue\\queuerabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C26A46-EA0E-4AE2-9F11-9FFEE5C606D8}|BuildingBlock.Bus\\BuildingBlock.Bus.csproj|solutionrelative:buildingblock.bus\\queue\\queuerabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 324,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
+              "RelativeDocumentMoniker": "BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
+              "RelativeToolTip": "BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:57:23.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\Registration.cs",
+              "RelativeDocumentMoniker": "BuildingBlock.Mapper\\Registration.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\Registration.cs",
+              "RelativeToolTip": "BuildingBlock.Mapper\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:56:55.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:55:59.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueRabbitMq.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Bus\\Queue\\QueueRabbitMq.cs",
+              "RelativeDocumentMoniker": "BuildingBlock.Bus\\Queue\\QueueRabbitMq.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Bus\\Queue\\QueueRabbitMq.cs",
+              "RelativeToolTip": "BuildingBlock.Bus\\Queue\\QueueRabbitMq.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:17:38.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Bus\\Registration.cs",
+              "RelativeDocumentMoniker": "BuildingBlock.Bus\\Registration.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Bus\\Registration.cs",
+              "RelativeToolTip": "BuildingBlock.Bus\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:13:47.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

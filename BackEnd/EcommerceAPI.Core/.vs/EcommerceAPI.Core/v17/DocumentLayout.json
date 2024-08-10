@@ -1,0 +1,400 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBC6A-D53E-4E0B-B712-84C9F9E6A381}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\behevior\\fluentvalidationbehevior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\common\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\common\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBC6A-D53E-4E0B-B712-84C9F9E6A381}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\automapper\\iautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C9EDC9-7DD5-49BE-873C-AC6144449234}|Presentation\\Presentation.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\presentation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C9EDC9-7DD5-49BE-873C-AC6144449234}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBC6A-D53E-4E0B-B712-84C9F9E6A381}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\sendmessage\\isendmessagerabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBC6A-D53E-4E0B-B712-84C9F9E6A381}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2725D6-9CA3-453B-8993-5E3876995C49}|Infrastructure\\Infrastructure.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\infrastructure\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2725D6-9CA3-453B-8993-5E3876995C49}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C9EDC9-7DD5-49BE-873C-AC6144449234}|Presentation\\Presentation.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C9EDC9-7DD5-49BE-873C-AC6144449234}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C9EDC9-7DD5-49BE-873C-AC6144449234}|Presentation\\Presentation.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69C9EDC9-7DD5-49BE-873C-AC6144449234}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C9EDC9-7DD5-49BE-873C-AC6144449234}|Presentation\\Presentation.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\presentation\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{69C9EDC9-7DD5-49BE-873C-AC6144449234}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2725D6-9CA3-453B-8993-5E3876995C49}|Infrastructure\\Infrastructure.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\infrastructure\\context\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2725D6-9CA3-453B-8993-5E3876995C49}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\context\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FBBC6A-D53E-4E0B-B712-84C9F9E6A381}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\token\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\userprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\feedbackdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\feedbackdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FE34BE-15B0-4FAA-A6E9-991628B4CF63}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 324,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FluentValidationBehevior.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\FluentValidationBehevior.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\FluentValidationBehevior.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\FluentValidationBehevior.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\FluentValidationBehevior.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:42:46.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Common\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\IEntityBase.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Common\\IEntityBase.cs",
+              "RelativeToolTip": "Domain\\Common\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:07:43.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:29:33.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Common\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Common\\EntityBase.cs",
+              "RelativeToolTip": "Domain\\Common\\EntityBase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:07:58.45Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Presentation\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Presentation\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:32:55.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISendMessageRabbitMQ.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\SendMessage\\ISendMessageRabbitMQ.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\SendMessage\\ISendMessageRabbitMQ.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\SendMessage\\ISendMessageRabbitMQ.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\SendMessage\\ISendMessageRabbitMQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:29:29.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:29:24.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Infrastructure\\Registration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Registration.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Infrastructure\\Registration.cs",
+              "RelativeToolTip": "Infrastructure\\Registration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:23:33.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Presentation.http",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Presentation\\Presentation.http",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.http",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Presentation\\Presentation.http",
+              "RelativeToolTip": "Presentation\\Presentation.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-09T15:25:03.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Infrastructure\\Context\\AddDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\AddDbContext.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Infrastructure\\Context\\AddDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\AddDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:13:12.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T15:11:30.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:11:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:17:08.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:06:56.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FeedbackDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\FeedbackDetail.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\FeedbackDetail.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\FeedbackDetail.cs",
+              "RelativeToolTip": "Domain\\Entities\\FeedbackDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:53:26.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Feedback.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Feedback.cs",
+              "RelativeToolTip": "Domain\\Entities\\Feedback.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:50:09.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Domain\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:40:01.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:39:43.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\UserProfiles.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserProfiles.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\UserProfiles.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserProfiles.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:34:04.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:28:09.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:18:57.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:08:57.313Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
