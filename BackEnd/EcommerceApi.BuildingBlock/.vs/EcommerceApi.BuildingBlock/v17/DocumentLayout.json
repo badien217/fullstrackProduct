@@ -3,15 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.mapper\\automappers\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|solutionrelative:buildingblock.mapper\\automappers\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71DB6003-63C7-4750-A481-4019197A6B84}|BuildingBlock.RedisCache\\BuildingBlock.RedisCache.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.rediscache\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB6003-63C7-4750-A481-4019197A6B84}|BuildingBlock.RedisCache\\BuildingBlock.RedisCache.csproj|solutionrelative:buildingblock.rediscache\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB6003-63C7-4750-A481-4019197A6B84}|BuildingBlock.RedisCache\\BuildingBlock.RedisCache.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.rediscache\\redisservices\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB6003-63C7-4750-A481-4019197A6B84}|BuildingBlock.RedisCache\\BuildingBlock.RedisCache.csproj|solutionrelative:buildingblock.rediscache\\redisservices\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB6003-63C7-4750-A481-4019197A6B84}|BuildingBlock.RedisCache\\BuildingBlock.RedisCache.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.rediscache\\redisservices\\rediscachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB6003-63C7-4750-A481-4019197A6B84}|BuildingBlock.RedisCache\\BuildingBlock.RedisCache.csproj|solutionrelative:buildingblock.rediscache\\redisservices\\rediscachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3234CFB-73B9-4F5D-BBBC-6219F0871F64}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\behevior\\rediscachebehevior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3234CFB-73B9-4F5D-BBBC-6219F0871F64}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\rediscahe\\icacheablequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3234CFB-73B9-4F5D-BBBC-6219F0871F64}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\rediscahe\\irediscache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3234CFB-73B9-4F5D-BBBC-6219F0871F64}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.mapper\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|solutionrelative:buildingblock.mapper\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3234CFB-73B9-4F5D-BBBC-6219F0871F64}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\automapper\\iautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1C26A46-EA0E-4AE2-9F11-9FFEE5C606D8}|BuildingBlock.Bus\\BuildingBlock.Bus.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.bus\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -20,6 +37,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1C26A46-EA0E-4AE2-9F11-9FFEE5C606D8}|BuildingBlock.Bus\\BuildingBlock.Bus.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.bus\\queue\\queuerabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1C26A46-EA0E-4AE2-9F11-9FFEE5C606D8}|BuildingBlock.Bus\\BuildingBlock.Bus.csproj|solutionrelative:buildingblock.bus\\queue\\queuerabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.buildingblock\\buildingblock.mapper\\automappers\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35FE9AF-BF4E-44AE-9207-61DDD98C6FF1}|BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj|solutionrelative:buildingblock.mapper\\automappers\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3234CFB-73B9-4F5D-BBBC-6219F0871F64}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien bu\u0027s cu\u0027s\\onedrive\\documents\\code\\ecommerceshop\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\automapper\\iautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,7 +63,7 @@
         },
         {
           "DockedHeight": 49,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,33 +71,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.RedisCache\\RedisServices\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "BuildingBlock.RedisCache\\RedisServices\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.RedisCache\\RedisServices\\RedisCacheService.cs",
+              "RelativeToolTip": "BuildingBlock.RedisCache\\RedisServices\\RedisCacheService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:21:58.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedisCacheSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.RedisCache\\RedisServices\\RedisCacheSettings.cs",
+              "RelativeDocumentMoniker": "BuildingBlock.RedisCache\\RedisServices\\RedisCacheSettings.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.RedisCache\\RedisServices\\RedisCacheSettings.cs",
+              "RelativeToolTip": "BuildingBlock.RedisCache\\RedisServices\\RedisCacheSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:21:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedisCacheBehevior.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\RedisCacheBehevior.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\RedisCacheBehevior.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\RedisCacheBehevior.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\RedisCacheBehevior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:18:07.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.RedisCache\\Registration.cs",
+              "RelativeDocumentMoniker": "BuildingBlock.RedisCache\\Registration.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.RedisCache\\Registration.cs",
+              "RelativeToolTip": "BuildingBlock.RedisCache\\Registration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:14:18.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRedisCache.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\RedisCahe\\IRedisCache.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\RedisCahe\\IRedisCache.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\RedisCahe\\IRedisCache.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\RedisCahe\\IRedisCache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:16:41.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:17:27.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICacheableQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\RedisCahe\\ICacheableQuery.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\RedisCahe\\ICacheableQuery.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\RedisCahe\\ICacheableQuery.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\RedisCahe\\ICacheableQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:16:26.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Mapping.cs",
               "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
               "RelativeDocumentMoniker": "BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
               "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
               "RelativeToolTip": "BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAABAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T18:57:23.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\Registration.cs",
               "RelativeDocumentMoniker": "BuildingBlock.Mapper\\Registration.cs",
               "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\Registration.cs",
               "RelativeToolTip": "BuildingBlock.Mapper\\Registration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T18:56:55.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "IAutoMapper.cs",
               "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
               "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
@@ -86,33 +205,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "QueueRabbitMq.cs",
               "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Bus\\Queue\\QueueRabbitMq.cs",
               "RelativeDocumentMoniker": "BuildingBlock.Bus\\Queue\\QueueRabbitMq.cs",
               "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Bus\\Queue\\QueueRabbitMq.cs",
               "RelativeToolTip": "BuildingBlock.Bus\\Queue\\QueueRabbitMq.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAkwCUAAAArAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwAsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T18:17:38.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Bus\\Registration.cs",
               "RelativeDocumentMoniker": "BuildingBlock.Bus\\Registration.cs",
               "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Bus\\Registration.cs",
               "RelativeToolTip": "BuildingBlock.Bus\\Registration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T18:13:47.484Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
