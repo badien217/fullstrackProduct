@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Interfaces\MailServices\" />
-    <Folder Include="Interfaces\RedisCahe\" />
     <Folder Include="Logs\" />
   </ItemGroup>
 

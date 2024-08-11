@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuildingBlock.Bus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4c3b3ee6049cbc04d3a71e5cffa4890894420f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuildingBlock.Bus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuildingBlock.Bus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
