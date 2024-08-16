@@ -16,12 +16,12 @@ namespace EcommerceAPI.SharedLibrary
             var assembly = Assembly.GetExecutingAssembly();
             services.AddTransient<ExceptionMiddleware>();
             services.AddRulesFromAssemblyContaining(assembly, typeof(BaseRules));
-            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(assembly));
+          ;
             //services.Configure<SendMailCommandAuthsSettings>(configuration.GetSection("MailSetting"));
             services.AddValidatorsFromAssembly(assembly);
             ValidatorOptions.Global.LanguageManager.Culture = new CultureInfo("tr");
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(FluentValidationBehevior<,>));
-            services.AddTransient(typeof(IPipelineBehavior<,>), typeof(RedisCacheBehevior<,>));
+            //services.AddTransient(typeof(IPipelineBehavior<,>), typeof(RedisCacheBehevior<,>));
         }
         private static IServiceCollection AddRulesFromAssemblyContaining(
             this IServiceCollection services,
