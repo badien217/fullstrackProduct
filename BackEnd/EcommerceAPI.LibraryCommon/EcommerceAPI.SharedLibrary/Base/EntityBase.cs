@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EcommerceAPI.SharedLibrary.Interfaces.EntityBase;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace EcommerceAPI.SharedLibrary.Base
 {
-    public abstract class EntityBase
+    public  class EntityBase : IEntityBase
     {
         public int Id { get; set; }
-        public bool IsDeleted { get; set; }
-        public DateTime CreateDate { get; set; }
+        public bool IsDeleted { get; set; } = false;
+        public DateTime CreatedDate { get; set; } = DateTime.Now;
     }
 }
