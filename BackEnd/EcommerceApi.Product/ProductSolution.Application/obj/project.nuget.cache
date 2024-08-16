@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CKvZtttaq0w=",
+  "dgSpecHash": "ZPCXfVD2C0E=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dien Bu's Cu's\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.Product\\ProductSolution.Application\\ProductSolution.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dien Bu's Cu's\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Dien Bu's Cu's\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\Dien Bu's Cu's\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\Dien Bu's Cu's\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

@@ -12,5 +12,12 @@ namespace ProductSolution.Domain.Entity
         public string name { get; set; }
         public string images { get; set; }
         public string description { get; set; }
+        public Category() { }
+        public Category(string name, string images, string description)
+        {
+            this.name = name;
+            this.images = images;
+            this.description = description;
+        }
     }
 }
