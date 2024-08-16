@@ -2,12 +2,10 @@ C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceA
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\ProductSolution.Infratructure.runtimeconfig.json
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\ProductSolution.Infratructure.dll
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\ProductSolution.Infratructure.pdb
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\Domain.dll
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.dll
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\ProductSolution.Domain.dll
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\ProductSolution.Domain.pdb
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.pdb
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\bin\Debug\net8.0\Domain.pdb
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\obj\Debug\net8.0\ProductSolution.Infratructure.csproj.AssemblyReference.cache
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\obj\Debug\net8.0\ProductSolution.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\obj\Debug\net8.0\ProductSolution.Infratructure.AssemblyInfoInputs.cache
@@ -19,3 +17,4 @@ C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceA
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\obj\Debug\net8.0\ProductSolution.Infratructure.pdb
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\obj\Debug\net8.0\ProductSolution.Infratructure.genruntimeconfig.cache
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\obj\Debug\net8.0\ref\ProductSolution.Infratructure.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Infratructure\obj\Debug\net8.0\ProductSolution.Infratructure.sourcelink.json

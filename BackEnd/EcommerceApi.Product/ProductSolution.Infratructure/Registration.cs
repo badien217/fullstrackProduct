@@ -8,6 +8,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EcommerceAPI.SharedLibrary.Interfaces.UnitOfWorks;
+using ProductSolution.Infratructure.Services.UnitOfWork;
+using EcommerceAPI.SharedLibrary.Interfaces.Reponsitories;
+using ProductSolution.Infratructure.Services.Reponsitory;
 
 namespace ProductSolution.Infratructure
 {
@@ -17,6 +21,8 @@ namespace ProductSolution.Infratructure
         {
             services.AddDbContext<AddDbContext>(opt =>
             opt.UseSqlServer(configuration.GetConnectionString("DefaultConnect")));
+            services.AddScoped<IUnitOfWork, UnitOfWorkServices>();
+            services.AddScoped(typeof(IReponsitory<>), typeof(ReponsitoryServices<>));
 
         }
     }

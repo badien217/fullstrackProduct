@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSolution.Infratructure", "ProductSolution.Infratructure\ProductSolution.Infratructure.csproj", "{39FB14F1-AB55-41EA-B503-2D5DE50960D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductSolution.Infratructure", "ProductSolution.Infratructure\ProductSolution.Infratructure.csproj", "{39FB14F1-AB55-41EA-B503-2D5DE50960D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSolution.Domain", "ProductSolution.Domain\ProductSolution.Domain.csproj", "{EA73FAFC-5203-4A1E-A61F-8C7B2D213B0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductSolution.Domain", "ProductSolution.Domain\ProductSolution.Domain.csproj", "{EA73FAFC-5203-4A1E-A61F-8C7B2D213B0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSolution.Application", "ProductSolution.Application\ProductSolution.Application.csproj", "{3352A8C0-5EBD-4C98-B9DA-2BA0E64E58FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductSolution.Application", "ProductSolution.Application\ProductSolution.Application.csproj", "{3352A8C0-5EBD-4C98-B9DA-2BA0E64E58FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductSolution.Presentation", "ProductSolution.Presentation\ProductSolution.Presentation.csproj", "{EA82A1AE-346D-4C5D-9276-F9F1E4C0109A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductSolution.Presentation", "ProductSolution.Presentation\ProductSolution.Presentation.csproj", "{EA82A1AE-346D-4C5D-9276-F9F1E4C0109A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcommerceAPI.SharedLibrary", "..\EcommerceAPI.LibraryCommon\EcommerceAPI.SharedLibrary\EcommerceAPI.SharedLibrary.csproj", "{3DCAE77E-8D16-40C2-A2B1-7BACC90CFCAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingBlock.Mapper", "..\EcommerceApi.BuildingBlock\BuildingBlock.Mapper\BuildingBlock.Mapper.csproj", "{60491D52-A7C2-46BC-A37E-A2039FC8C6CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{3DCAE77E-8D16-40C2-A2B1-7BACC90CFCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DCAE77E-8D16-40C2-A2B1-7BACC90CFCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DCAE77E-8D16-40C2-A2B1-7BACC90CFCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60491D52-A7C2-46BC-A37E-A2039FC8C6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60491D52-A7C2-46BC-A37E-A2039FC8C6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60491D52-A7C2-46BC-A37E-A2039FC8C6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60491D52-A7C2-46BC-A37E-A2039FC8C6CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

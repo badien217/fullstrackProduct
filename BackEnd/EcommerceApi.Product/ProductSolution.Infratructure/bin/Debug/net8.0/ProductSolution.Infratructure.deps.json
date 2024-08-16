@@ -1131,21 +1131,6 @@
           }
         }
       },
-      "Domain/1.0.0": {
-        "dependencies": {
-          "FluentValidation": "11.9.2",
-          "FluentValidation.AspNetCore": "11.3.0",
-          "FluentValidation.DependencyInjectionExtensions": "11.9.2",
-          "MailKit": "4.7.1.1",
-          "MediatR": "12.4.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
-          "Newtonsoft.Json": "13.0.3",
-          "System.IdentityModel.Tokens.Jwt": "8.0.1"
-        },
-        "runtime": {
-          "Domain.dll": {}
-        }
-      },
       "EcommerceAPI.SharedLibrary/1.0.0": {
         "dependencies": {
           "Domain": "1.0.0",
@@ -1914,11 +1899,6 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
-    },
-    "Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "EcommerceAPI.SharedLibrary/1.0.0": {
       "type": "project",
