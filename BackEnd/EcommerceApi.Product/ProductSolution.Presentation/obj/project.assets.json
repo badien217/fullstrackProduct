@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -2050,6 +2066,20 @@
           }
         }
       },
+      "BuildingBlock.Mapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "AutoMapper": "13.0.1",
+          "EcommerceAPI.SharedLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BuildingBlock.Mapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuildingBlock.Mapper.dll": {}
+        }
+      },
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2093,6 +2123,21 @@
           "bin/placeholder/EcommerceAPI.SharedLibrary.dll": {}
         }
       },
+      "ProductSolution.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BuildingBlock.Mapper": "1.0.0",
+          "MediatR": "12.4.0",
+          "ProductSolution.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProductSolution.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductSolution.Application.dll": {}
+        }
+      },
       "ProductSolution.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2124,6 +2169,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -6168,6 +6228,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "BuildingBlock.Mapper/1.0.0": {
+      "type": "project",
+      "path": "../../EcommerceApi.BuildingBlock/BuildingBlock.Mapper/BuildingBlock.Mapper.csproj",
+      "msbuildProject": "../../EcommerceApi.BuildingBlock/BuildingBlock.Mapper/BuildingBlock.Mapper.csproj"
+    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../../EcommerceAPI.Core/Domain/Domain.csproj",
@@ -6177,6 +6242,11 @@
       "type": "project",
       "path": "../../EcommerceAPI.LibraryCommon/EcommerceAPI.SharedLibrary/EcommerceAPI.SharedLibrary.csproj",
       "msbuildProject": "../../EcommerceAPI.LibraryCommon/EcommerceAPI.SharedLibrary/EcommerceAPI.SharedLibrary.csproj"
+    },
+    "ProductSolution.Application/1.0.0": {
+      "type": "project",
+      "path": "../ProductSolution.Application/ProductSolution.Application.csproj",
+      "msbuildProject": "../ProductSolution.Application/ProductSolution.Application.csproj"
     },
     "ProductSolution.Domain/1.0.0": {
       "type": "project",
@@ -6191,11 +6261,14 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BuildingBlock.Mapper >= 1.0.0",
+      "MediatR >= 12.4.0",
       "Microsoft.EntityFrameworkCore >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.7",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.20.1",
+      "ProductSolution.Application >= 1.0.0",
       "ProductSolution.Infratructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -6233,6 +6306,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\Dien Bu's Cu's\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj": {
+              "projectPath": "C:\\Users\\Dien Bu's Cu's\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\BuildingBlock.Mapper.csproj"
+            },
+            "C:\\Users\\Dien Bu's Cu's\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.Product\\ProductSolution.Application\\ProductSolution.Application.csproj": {
+              "projectPath": "C:\\Users\\Dien Bu's Cu's\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.Product\\ProductSolution.Application\\ProductSolution.Application.csproj"
+            },
             "C:\\Users\\Dien Bu's Cu's\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.Product\\ProductSolution.Infratructure\\ProductSolution.Infratructure.csproj": {
               "projectPath": "C:\\Users\\Dien Bu's Cu's\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceApi.Product\\ProductSolution.Infratructure\\ProductSolution.Infratructure.csproj"
             }
@@ -6254,6 +6333,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[12.4.0, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.7, )"

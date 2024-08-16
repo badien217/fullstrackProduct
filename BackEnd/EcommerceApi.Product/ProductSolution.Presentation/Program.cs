@@ -1,13 +1,28 @@
+using BuildingBlock.Mapper;
+using EcommerceAPI.SharedLibrary;
+using ProductSolution.Application;
 using ProductSolution.Infratructure;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin",
+        builder => builder
+            .WithOrigins("http://localhost:7127")
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowCredentials());
+});
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddInfratructure(builder.Configuration);
+builder.Services.AddMapper();
+builder.Services.AddApplication(builder.Configuration);
+builder.Services.AddApplications(builder.Configuration);
 
 var app = builder.Build();
 
