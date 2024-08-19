@@ -1,0 +1,6 @@
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Release\net8.0\ProductSolution.Application.csproj.AssemblyReference.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Release\net8.0\ProductSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Release\net8.0\ProductSolution.Application.AssemblyInfoInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Release\net8.0\ProductSolution.Application.AssemblyInfo.cs
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Release\net8.0\ProductSolution.Application.csproj.CoreCompileInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Release\net8.0\ProductSolution.Application.sourcelink.json
