@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Order.Infratructure.context;
 
@@ -11,9 +12,11 @@ using Order.Infratructure.context;
 namespace Order.Infratructure.Migrations
 {
     [DbContext(typeof(AddDbContext))]
-    partial class AddDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240819100607_update2")]
+    partial class update2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -42,8 +45,8 @@ namespace Order.Infratructure.Migrations
                     b.Property<int>("productId")
                         .HasColumnType("int");
 
-                    b.Property<bool>("status")
-                        .HasColumnType("bit");
+                    b.Property<int>("quantity")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -83,9 +86,6 @@ namespace Order.Infratructure.Migrations
                     b.Property<string>("phoneNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<decimal>("price")
-                        .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
 

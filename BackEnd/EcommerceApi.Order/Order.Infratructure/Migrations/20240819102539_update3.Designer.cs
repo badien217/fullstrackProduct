@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Order.Infratructure.context;
 
@@ -11,9 +12,11 @@ using Order.Infratructure.context;
 namespace Order.Infratructure.Migrations
 {
     [DbContext(typeof(AddDbContext))]
-    partial class AddDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240819102539_update3")]
+    partial class update3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
