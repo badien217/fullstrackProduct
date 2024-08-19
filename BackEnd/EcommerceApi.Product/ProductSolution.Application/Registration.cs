@@ -19,6 +19,5 @@ namespace ProductSolution.Application
             var assembly = Assembly.GetExecutingAssembly();
             services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(assembly));
         }
-
-        }
+    }
 }
