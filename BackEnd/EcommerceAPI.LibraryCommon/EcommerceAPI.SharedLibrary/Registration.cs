@@ -1,12 +1,14 @@
 ﻿using EcommerceAPI.SharedLibrary.Base;
 using EcommerceAPI.SharedLibrary.Behevior;
 using EcommerceAPI.SharedLibrary.Exceptions;
-using FluentValidation;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 using System.Globalization;
 using System.Reflection;
 using Microsoft.Extensions.Configuration;
+using FluentValidation;
+using Microsoft.EntityFrameworkCore;
+
 namespace EcommerceAPI.SharedLibrary
 {
     public static class Registration
@@ -16,9 +18,9 @@ namespace EcommerceAPI.SharedLibrary
             var assembly = Assembly.GetExecutingAssembly();
             services.AddTransient<ExceptionMiddleware>();
             services.AddRulesFromAssemblyContaining(assembly, typeof(BaseRules));
-          ;
+          
             //services.Configure<SendMailCommandAuthsSettings>(configuration.GetSection("MailSetting"));
-            services.AddValidatorsFromAssembly(assembly);
+            //services.AddValidatorsFromAssembly(assembly);
             ValidatorOptions.Global.LanguageManager.Culture = new CultureInfo("tr");
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(FluentValidationBehevior<,>));
             //services.AddTransient(typeof(IPipelineBehavior<,>), typeof(RedisCacheBehevior<,>));

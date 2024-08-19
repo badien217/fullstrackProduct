@@ -7,8 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\MailServices\" />
-    <Folder Include="Logs\" />
+    <Compile Remove="Interfaces\MailServices\**" />
+    <Compile Remove="Logs\**" />
+    <EmbeddedResource Remove="Interfaces\MailServices\**" />
+    <EmbeddedResource Remove="Logs\**" />
+    <None Remove="Interfaces\MailServices\**" />
+    <None Remove="Logs\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,10 +26,6 @@
     <PackageReference Include="Serilog" Version="4.0.1" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.0.1" />
     <PackageReference Include="System.Security.Claims" Version="4.3.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\EcommerceAPI.Core\Domain\Domain.csproj" />
   </ItemGroup>
 
 </Project>
