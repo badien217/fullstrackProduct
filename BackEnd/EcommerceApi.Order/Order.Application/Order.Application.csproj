@@ -6,4 +6,23 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Features\OrderDetails\" />
+    <Folder Include="Features\Order\Delete\" />
+    <Folder Include="Features\Order\GetAll\" />
+    <Folder Include="Features\Order\GetOne\" />
+    <Folder Include="Features\Order\Update\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\EcommerceApi.BuildingBlock\BuildingBlock.Mapper\BuildingBlock.Mapper.csproj" />
+    <ProjectReference Include="..\..\EcommerceAPI.LibraryCommon\EcommerceAPI.SharedLibrary\EcommerceAPI.SharedLibrary.csproj" />
+    <ProjectReference Include="..\Order.Domain\Order.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
