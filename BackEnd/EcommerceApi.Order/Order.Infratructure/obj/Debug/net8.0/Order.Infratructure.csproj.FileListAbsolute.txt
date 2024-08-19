@@ -20,3 +20,23 @@ C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceA
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.pdb
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.genruntimeconfig.cache
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\ref\Order.Infratructure.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\bin\Debug\net8.0\Order.Infratructure.deps.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\bin\Debug\net8.0\Order.Infratructure.runtimeconfig.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\bin\Debug\net8.0\Order.Infratructure.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\bin\Debug\net8.0\Order.Infratructure.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.csproj.AssemblyReference.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.AssemblyInfoInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.AssemblyInfo.cs
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.csproj.CoreCompileInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.sourcelink.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.In.888122E8.Up2Date
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\refint\Order.Infratructure.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\Order.Infratructure.genruntimeconfig.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Infratructure\obj\Debug\net8.0\ref\Order.Infratructure.dll
