@@ -9,6 +9,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Order.Infratructure.Services.UnitOfWork;
+using Order.Infratructure.Services.Reponsitories;
 
 namespace Order.Infratructure
 {
@@ -18,8 +20,8 @@ namespace Order.Infratructure
         {
             services.AddDbContext<AddDbContext>(opt =>
             opt.UseSqlServer(configuration.GetConnectionString("DefaultConnect")));
-            //services.AddScoped<IUnitOfWork, UnitOfWorkServices>();
-            //services.AddScoped(typeof(IReponsitory<>), typeof(ReponsitoryServices<>));
+            services.AddScoped<IUnitOfWork, UnitOfWorkServices>();
+            services.AddScoped(typeof(IReponsitory<>), typeof(ReponsitoryServices<>));
 
         }
     }

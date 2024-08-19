@@ -14,13 +14,14 @@ namespace Order.Domain.Entities
         public int orderId { get; set; }
         public Orders order { get; set; }
         public int productId { get; set; }
-        public int quantity { get; set; }
+        
+        public bool status { get; set; }
         public OrderDetail() { }
-        public OrderDetail(int orderId, int productId, int quantity)
+        public OrderDetail(int orderId, int productId)
         {
             this.orderId = orderId;
             this.productId = productId;
-            this.quantity = quantity;
+         
         }
     }
 }

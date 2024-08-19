@@ -16,3 +16,19 @@ C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceA
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\refint\Order.Domain.dll
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.pdb
 C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\ref\Order.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\bin\Debug\net8.0\Order.Domain.deps.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.csproj.AssemblyReference.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfoInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.AssemblyInfo.cs
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.sourcelink.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Do.5EF8E5B4.Up2Date
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\refint\Order.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\Order.Domain.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Domain\obj\Debug\net8.0\ref\Order.Domain.dll
