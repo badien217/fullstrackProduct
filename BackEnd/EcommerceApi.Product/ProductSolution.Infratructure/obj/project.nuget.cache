@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "LkZ8vzDxAmk=",
+  "dgSpecHash": "j8U4a2WjMNU=",
   "success": true,
   "projectFilePath": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Product\\ProductSolution.Infratructure\\ProductSolution.Infratructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DIEN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DIEN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\DIEN\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\DIEN\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\DIEN\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\DIEN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DIEN\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
     "C:\\Users\\DIEN\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

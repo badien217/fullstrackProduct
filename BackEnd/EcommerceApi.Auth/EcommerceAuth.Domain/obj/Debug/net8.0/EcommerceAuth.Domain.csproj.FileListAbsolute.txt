@@ -1,0 +1,16 @@
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\bin\Debug\net8.0\EcommerceAuth.Domain.deps.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\bin\Debug\net8.0\EcommerceAuth.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\bin\Debug\net8.0\EcommerceAuth.Domain.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\EcommerceAuth.Domain.csproj.AssemblyReference.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\EcommerceAuth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\EcommerceAuth.Domain.AssemblyInfoInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\EcommerceAuth.Domain.AssemblyInfo.cs
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\EcommerceAuth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\EcommerceAuth.Domain.sourcelink.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\Ecommerc.CA6AB790.Up2Date
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\EcommerceAuth.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\refint\EcommerceAuth.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\EcommerceAuth.Domain.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Auth\EcommerceAuth.Domain\obj\Debug\net8.0\ref\EcommerceAuth.Domain.dll

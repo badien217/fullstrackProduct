@@ -16,7 +16,6 @@ namespace Order.Application.Features.Order.Add
         public decimal amount { get; set; }
         public IList<int> ProductId { get; set; }
         public bool status { get; set; }
-        public int OrderId { get; set; }
         public decimal price { get; set; }
     }
 }

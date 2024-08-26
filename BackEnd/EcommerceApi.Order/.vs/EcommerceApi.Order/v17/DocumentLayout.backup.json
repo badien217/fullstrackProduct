@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Migrations\\20240819102539_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Order.Infratructure\\Migrations\\20240819102539_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\add\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\add\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74D20EB8-9816-4ECD-8326-44CA13074A04}|Order.Domain\\Order.Domain.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.domain\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74D20EB8-9816-4ECD-8326-44CA13074A04}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +11,67 @@
       "RelativeMoniker": "D:0:0:{74D20EB8-9816-4ECD-8326-44CA13074A04}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\getall\\getallorderreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\getall\\getallorderreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\getall\\getallorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\getall\\getallorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6396BE0F-9FA4-4223-8677-32658305BF6D}|Order.Presentation\\Order.Presentation.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6396BE0F-9FA4-4223-8677-32658305BF6D}|Order.Presentation\\Order.Presentation.csproj|solutionrelative:order.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\update\\updateorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\update\\updateorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\getone\\getorderbyid\\getoneorderbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\getone\\getorderbyid\\getoneorderbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\getone\\getorderbyid\\getoneorderbyidreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\getone\\getorderbyid\\getoneorderbyidreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\update\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\update\\updateorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\getone\\getorderbyid\\getoneorderbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\getone\\getorderbyid\\getoneorderbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6396BE0F-9FA4-4223-8677-32658305BF6D}|Order.Presentation\\Order.Presentation.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.presentation\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6396BE0F-9FA4-4223-8677-32658305BF6D}|Order.Presentation\\Order.Presentation.csproj|solutionrelative:order.presentation\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE83A4B-D841-48DA-8652-93F8B7DDC45A}|..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\getall\\getallorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\getall\\getallorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\add\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\add\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\add\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\add\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\delete\\deleteorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\delete\\deleteorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\features\\order\\delete\\deleteorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\features\\order\\delete\\deleteorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2800EC3B-5540-4598-B57C-3FB240568C51}|Order.Infratructure\\Order.Infratructure.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.infratructure\\migrations\\20240819100607_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,22 +106,18 @@
       "RelativeMoniker": "D:0:0:{2800EC3B-5540-4598-B57C-3FB240568C51}|Order.Infratructure\\Order.Infratructure.csproj|solutionrelative:order.infratructure\\context\\adddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6396BE0F-9FA4-4223-8677-32658305BF6D}|Order.Presentation\\Order.Presentation.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6396BE0F-9FA4-4223-8677-32658305BF6D}|Order.Presentation\\Order.Presentation.csproj|solutionrelative:order.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\OrderDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1718237E-0B94-48E7-BF68-EEF2E0457253}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74D20EB8-9816-4ECD-8326-44CA13074A04}|Order.Domain\\Order.Domain.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74D20EB8-9816-4ECD-8326-44CA13074A04}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2800EC3B-5540-4598-B57C-3FB240568C51}|Order.Infratructure\\Order.Infratructure.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.order\\order.infratructure\\migrations\\20240819102539_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2800EC3B-5540-4598-B57C-3FB240568C51}|Order.Infratructure\\Order.Infratructure.csproj|solutionrelative:order.infratructure\\migrations\\20240819102539_update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +137,7 @@
         },
         {
           "DockedHeight": 49,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,46 +149,226 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240819102539_update3.cs",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Migrations\\20240819102539_update3.cs",
-              "RelativeDocumentMoniker": "Order.Infratructure\\Migrations\\20240819102539_update3.cs",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Migrations\\20240819102539_update3.cs",
-              "RelativeToolTip": "Order.Infratructure\\Migrations\\20240819102539_update3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "UpdateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Update\\UpdateOrderRequest.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\Update\\UpdateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Update\\UpdateOrderRequest.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\Update\\UpdateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:25:39.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:47:24.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateOrderRequest.cs",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Add\\CreateOrderRequest.cs",
-              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\Add\\CreateOrderRequest.cs",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Add\\CreateOrderRequest.cs",
-              "RelativeToolTip": "Order.Application\\Features\\Order\\Add\\CreateOrderRequest.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBEAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "GetAllOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetAll\\GetAllOrderHandler.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\GetAll\\GetAllOrderHandler.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetAll\\GetAllOrderHandler.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\GetAll\\GetAllOrderHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wBcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:09:15.829Z",
+              "WhenOpened": "2024-08-19T18:54:31.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllOrderReponse.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetAll\\GetAllOrderReponse.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\GetAll\\GetAllOrderReponse.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetAll\\GetAllOrderReponse.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\GetAll\\GetAllOrderReponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:56:06.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateOrderHandler.cs",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Add\\CreateOrderHandler.cs",
-              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\Add\\CreateOrderHandler.cs",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Add\\CreateOrderHandler.cs",
-              "RelativeToolTip": "Order.Application\\Features\\Order\\Add\\CreateOrderHandler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA4AAAA7AAAAAAAAAA==",
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Order.Domain\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:09:06.834Z",
+              "WhenOpened": "2024-08-15T20:01:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Entities\\Orders.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Entities\\Orders.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Entities\\Orders.cs",
+              "RelativeToolTip": "Order.Domain\\Entities\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:02:35.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UpdateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Update\\UpdateOrderHandler.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\Update\\UpdateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Update\\UpdateOrderHandler.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\Update\\UpdateOrderHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:47:29.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Order.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\Program.cs",
+              "RelativeToolTip": "Order.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:59:29.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetOneOrderByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdHandler.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdHandler.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdHandler.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:07:57.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetOneOrderByIdRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdRequest.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdRequest.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdRequest.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:08:16.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetOneOrderByIdReponse.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdReponse.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdReponse.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdReponse.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\GetOne\\GetOrderById\\GetOneOrderByIdReponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:08:41.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:23:41.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Order.Presentation\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Order.Presentation\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA5wDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:26:02.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Registration.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Registration.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Registration.cs",
+              "RelativeToolTip": "Order.Application\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:00:57.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetAllOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetAll\\GetAllOrderRequest.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\GetAll\\GetAllOrderRequest.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\GetAll\\GetAllOrderRequest.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\GetAll\\GetAllOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:53:31.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Add\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\Add\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Add\\CreateOrderRequest.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\Add\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:09:15.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Add\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\Add\\CreateOrderHandler.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Add\\CreateOrderHandler.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\Add\\CreateOrderHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T10:09:06.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Delete\\DeleteOrderHandler.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\Delete\\DeleteOrderHandler.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Delete\\DeleteOrderHandler.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\Delete\\DeleteOrderHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:58:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Delete\\DeleteOrderRequest.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Features\\Order\\Delete\\DeleteOrderRequest.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Features\\Order\\Delete\\DeleteOrderRequest.cs",
+              "RelativeToolTip": "Order.Application\\Features\\Order\\Delete\\DeleteOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:56:38.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20240819100607_update2.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Migrations\\20240819100607_update2.cs",
               "RelativeDocumentMoniker": "Order.Infratructure\\Migrations\\20240819100607_update2.cs",
@@ -149,51 +376,35 @@
               "RelativeToolTip": "Order.Infratructure\\Migrations\\20240819100607_update2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T10:06:08.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T10:06:08.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Entities\\Orders.cs",
-              "RelativeDocumentMoniker": "Order.Domain\\Entities\\Orders.cs",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Entities\\Orders.cs",
-              "RelativeToolTip": "Order.Domain\\Entities\\Orders.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBsAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 29,
+              "Title": "20240819102539_update3.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Migrations\\20240819102539_update3.cs",
+              "RelativeDocumentMoniker": "Order.Infratructure\\Migrations\\20240819102539_update3.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Migrations\\20240819102539_update3.cs",
+              "RelativeToolTip": "Order.Infratructure\\Migrations\\20240819102539_update3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T20:02:35.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T10:25:39.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Entities\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "Order.Domain\\Entities\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Entities\\OrderDetail.cs",
-              "RelativeToolTip": "Order.Domain\\Entities\\OrderDetail.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T20:01:05.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "UnitOfWorkServices.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Services\\UnitOfWork\\UnitOfWorkServices.cs",
               "RelativeDocumentMoniker": "Order.Infratructure\\Services\\UnitOfWork\\UnitOfWorkServices.cs",
               "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Services\\UnitOfWork\\UnitOfWorkServices.cs",
               "RelativeToolTip": "Order.Infratructure\\Services\\UnitOfWork\\UnitOfWorkServices.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwA8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:21:06.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T09:21:06.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "ReponsitoryServices.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Services\\Reponsitories\\ReponsitoryServices.cs",
               "RelativeDocumentMoniker": "Order.Infratructure\\Services\\Reponsitories\\ReponsitoryServices.cs",
@@ -201,25 +412,23 @@
               "RelativeToolTip": "Order.Infratructure\\Services\\Reponsitories\\ReponsitoryServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:20:49.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T09:20:49.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Order.Presentation",
+              "DocumentIndex": 23,
+              "Title": "Order.Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\Order.Presentation.csproj",
               "RelativeDocumentMoniker": "Order.Presentation\\Order.Presentation.csproj",
               "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\Order.Presentation.csproj",
               "RelativeToolTip": "Order.Presentation\\Order.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-19T06:52:24.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T06:52:24.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Order.Presentation\\appsettings.json",
@@ -227,12 +436,11 @@
               "RelativeToolTip": "Order.Presentation\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T20:57:56.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T20:57:56.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "20240815210418_update1.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Migrations\\20240815210418_update1.cs",
               "RelativeDocumentMoniker": "Order.Infratructure\\Migrations\\20240815210418_update1.cs",
@@ -240,51 +448,35 @@
               "RelativeToolTip": "Order.Infratructure\\Migrations\\20240815210418_update1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T21:04:18.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T21:04:18.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "AddDbContext.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\context\\AddDbContext.cs",
               "RelativeDocumentMoniker": "Order.Infratructure\\context\\AddDbContext.cs",
               "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\context\\AddDbContext.cs",
               "RelativeToolTip": "Order.Infratructure\\context\\AddDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBZwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T20:53:39.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T20:53:39.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Registration.cs",
               "RelativeDocumentMoniker": "Order.Infratructure\\Registration.cs",
               "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Infratructure\\Registration.cs",
               "RelativeToolTip": "Order.Infratructure\\Registration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T04:00:39.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T04:00:39.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Order.Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Presentation\\Program.cs",
-              "RelativeToolTip": "Order.Presentation\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T20:59:29.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\Order.cs",
@@ -295,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.Core\\Domain\\Entities\\OrderDetail.cs",
@@ -306,20 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Registration.cs",
-              "RelativeDocumentMoniker": "Order.Application\\Registration.cs",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Application\\Registration.cs",
-              "RelativeToolTip": "Order.Application\\Registration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T04:00:57.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Order\\Order.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Order.Domain\\Class1.cs",
@@ -327,8 +506,7 @@
               "RelativeToolTip": "Order.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T18:59:05.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T18:59:05.388Z"
             }
           ]
         },

@@ -311,3 +311,8 @@ C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentati
 C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentation\obj\Debug\net8.0\Order.Presentation.pdb
 C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentation\obj\Debug\net8.0\Order.Presentation.genruntimeconfig.cache
 C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentation\obj\Debug\net8.0\ref\Order.Presentation.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentation\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentation\bin\Debug\net8.0\BuildingBlock.Mapper.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentation\bin\Debug\net8.0\Order.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentation\bin\Debug\net8.0\Order.Application.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Presentation\bin\Debug\net8.0\BuildingBlock.Mapper.pdb

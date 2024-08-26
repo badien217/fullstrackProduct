@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Order.Domain.Entities
 {
-    public class OrderDetail :EntityBase, IEntityBase
+    public class OrderDetail :EntityBase,IEntityBase
     {
         public int orderId { get; set; }
         public Orders order { get; set; }

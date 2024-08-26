@@ -319,3 +319,5 @@ C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolutio
 C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Presentation\obj\Debug\net8.0\ProductSolution.Presentation.pdb
 C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Presentation\obj\Debug\net8.0\ProductSolution.Presentation.genruntimeconfig.cache
 C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Presentation\obj\Debug\net8.0\ref\ProductSolution.Presentation.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Presentation\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Presentation\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

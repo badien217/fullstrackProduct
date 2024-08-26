@@ -20,7 +20,7 @@ namespace EcommerceAPI.SharedLibrary
             services.AddRulesFromAssemblyContaining(assembly, typeof(BaseRules));
           
             //services.Configure<SendMailCommandAuthsSettings>(configuration.GetSection("MailSetting"));
-            //services.AddValidatorsFromAssembly(assembly);
+            services.AddValidatorsFromAssembly(assembly);
             ValidatorOptions.Global.LanguageManager.Culture = new CultureInfo("tr");
             services.AddTransient(typeof(IPipelineBehavior<,>), typeof(FluentValidationBehevior<,>));
             //services.AddTransient(typeof(IPipelineBehavior<,>), typeof(RedisCacheBehevior<,>));

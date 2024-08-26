@@ -1,4 +1,7 @@
-﻿using EcommerceAPI.SharedLibrary.Base;
+﻿
+
+using EcommerceAPI.SharedLibrary.Base;
+using EcommerceAPI.SharedLibrary.Interfaces.EntityBase;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace ProductSolution.Domain.Entity
 {
-    public class Product : EntityBase
+    public class Product : EntityBase,IEntityBase
     {
         public string name { get; set; }
         public string images { get; set; }

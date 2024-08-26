@@ -9,10 +9,7 @@
   <ItemGroup>
     <Folder Include="DTOs\" />
     <Folder Include="Features\OrderDetails\" />
-    <Folder Include="Features\Order\Delete\" />
-    <Folder Include="Features\Order\GetAll\" />
-    <Folder Include="Features\Order\GetOne\" />
-    <Folder Include="Features\Order\Update\" />
+    <Folder Include="Features\Order\GetOne\GetOrderByMonth\" />
   </ItemGroup>
 
   <ItemGroup>
