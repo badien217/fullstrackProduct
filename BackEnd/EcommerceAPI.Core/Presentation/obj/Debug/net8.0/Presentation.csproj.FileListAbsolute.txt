@@ -1,7 +1,0 @@
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceAPI.Core\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceAPI.Core\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceAPI.Core\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceAPI.Core\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceAPI.Core\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceAPI.Core\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceAPI.Core\Presentation\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
