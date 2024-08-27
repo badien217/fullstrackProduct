@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FE09586-4E0F-493B-BAE5-44652E672977}|EcommerceAuth.Presentation\\EcommerceAuth.Presentation.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.auth\\ecommerceauth.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FE09586-4E0F-493B-BAE5-44652E672977}|EcommerceAuth.Presentation\\EcommerceAuth.Presentation.csproj|solutionrelative:ecommerceauth.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E4B005B-C75B-4CEE-B8A9-32E6AA3D2129}|EcommerceAuth.Application\\EcommerceAuth.Application.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.auth\\ecommerceauth.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4B005B-C75B-4CEE-B8A9-32E6AA3D2129}|EcommerceAuth.Application\\EcommerceAuth.Application.csproj|solutionrelative:ecommerceauth.application\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6FE09586-4E0F-493B-BAE5-44652E672977}|EcommerceAuth.Presentation\\EcommerceAuth.Presentation.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.auth\\ecommerceauth.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FE09586-4E0F-493B-BAE5-44652E672977}|EcommerceAuth.Presentation\\EcommerceAuth.Presentation.csproj|solutionrelative:ecommerceauth.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FE09586-4E0F-493B-BAE5-44652E672977}|EcommerceAuth.Presentation\\EcommerceAuth.Presentation.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.auth\\ecommerceauth.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6FE09586-4E0F-493B-BAE5-44652E672977}|EcommerceAuth.Presentation\\EcommerceAuth.Presentation.csproj|solutionrelative:ecommerceauth.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FE09586-4E0F-493B-BAE5-44652E672977}|EcommerceAuth.Presentation\\EcommerceAuth.Presentation.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.auth\\ecommerceauth.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -216,7 +216,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 324,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -224,20 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "EcommerceAuth.Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Presentation\\Program.cs",
-              "RelativeToolTip": "EcommerceAuth.Presentation\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:52:25.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Application\\Registration.cs",
               "RelativeDocumentMoniker": "EcommerceAuth.Application\\Registration.cs",
@@ -258,12 +245,11 @@
               "RelativeToolTip": "EcommerceAuth.Presentation\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAApwEUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T08:09:26.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T08:09:26.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Infrastructure\\Registration.cs",
               "RelativeDocumentMoniker": "EcommerceAuth.Infrastructure\\Registration.cs",
@@ -271,12 +257,11 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\Registration.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwBsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:39:43.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T03:39:43.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RefreshTokenHandler.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Application\\Feature\\RefreshToken\\RefreshTokenHandler.cs",
               "RelativeDocumentMoniker": "EcommerceAuth.Application\\Feature\\RefreshToken\\RefreshTokenHandler.cs",
@@ -284,12 +269,11 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RefreshToken\\RefreshTokenHandler.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAqwBgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:11:46.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:11:46.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginHandler.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Application\\Feature\\Login\\LoginHandler.cs",
               "RelativeDocumentMoniker": "EcommerceAuth.Application\\Feature\\Login\\LoginHandler.cs",
@@ -297,12 +281,11 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Login\\LoginHandler.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAuwBMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:46:58.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:46:58.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthRule.cs",
               "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Application\\Rule\\AuthRule.cs",
               "RelativeDocumentMoniker": "EcommerceAuth.Application\\Rule\\AuthRule.cs",
@@ -310,8 +293,32 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Rule\\AuthRule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:37:38.29Z",
+              "WhenOpened": "2024-08-21T09:37:38.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceAuth.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Presentation\\appsettings.json",
+              "RelativeToolTip": "EcommerceAuth.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T03:52:08.543Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAuth.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Presentation\\Program.cs",
+              "RelativeToolTip": "EcommerceAuth.Presentation\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:52:25.094Z"
             },
             {
               "$type": "Document",
@@ -323,21 +330,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RevokeAll\\RevokeAllRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:59:19.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "EcommerceAuth.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceApi.Auth\\EcommerceAuth.Presentation\\appsettings.json",
-              "RelativeToolTip": "EcommerceAuth.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-20T03:52:08.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:59:19.752Z"
             },
             {
               "$type": "Document",
@@ -349,8 +342,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RevokeAll\\RevokeAllHandler.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:59:35.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:59:35.953Z"
             },
             {
               "$type": "Document",
@@ -362,8 +354,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Revoke\\RevokeRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:52:31.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:52:31.233Z"
             },
             {
               "$type": "Document",
@@ -375,8 +366,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Revoke\\RevokeHandler.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:55:09.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:55:09.693Z"
             },
             {
               "$type": "Document",
@@ -388,8 +378,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\GetProfiles\\GetProfileRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T08:23:06.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T08:23:06.085Z"
             },
             {
               "$type": "Document",
@@ -401,8 +390,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\GetProfiles\\GetProfileReponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T08:25:33.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T08:25:33.873Z"
             },
             {
               "$type": "Document",
@@ -414,8 +402,7 @@
               "RelativeToolTip": "EcommerceAuth.Domain\\Entity\\Profile.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:28:00.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T03:28:00.737Z"
             },
             {
               "$type": "Document",
@@ -427,8 +414,7 @@
               "RelativeToolTip": "EcommerceAuth.Domain\\Entity\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:27:43.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T03:27:43.277Z"
             },
             {
               "$type": "Document",
@@ -440,8 +426,7 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\Services\\Reponsitories\\ReponsitoryServices.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAiwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T09:43:15.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T09:43:15.524Z"
             },
             {
               "$type": "Document",
@@ -453,8 +438,7 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\Services\\UnitOfWords\\UnitOfWorkServices.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T09:46:38.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T09:46:38.345Z"
             },
             {
               "$type": "Document",
@@ -466,8 +450,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\GetProfiles\\GetProfileHandler.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAQwCoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T08:27:16.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T08:27:16.597Z"
             },
             {
               "$type": "Document",
@@ -479,8 +462,7 @@
               "RelativeToolTip": "..\\EcommerceApi.BuildingBlock\\BuildingBlock.Mapper\\AutoMappers\\Mapping.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T09:03:19.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T09:03:19.643Z"
             },
             {
               "$type": "Document",
@@ -492,8 +474,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Profiles\\Update\\UpdateProfile\\UpdateProfileUserRequest.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:40:54.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:40:54.826Z"
             },
             {
               "$type": "Document",
@@ -505,8 +486,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Profiles\\Update\\UpdateProfile\\UpdateProfileUserHandler.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAIBJwC0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:42:28.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:42:28.91Z"
             },
             {
               "$type": "Document",
@@ -518,8 +498,7 @@
               "RelativeToolTip": "..\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIBJwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T20:02:50.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T20:02:50.024Z"
             },
             {
               "$type": "Document",
@@ -531,8 +510,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Login\\LoginValidator.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:56:54.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:56:54.745Z"
             },
             {
               "$type": "Document",
@@ -544,8 +522,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Register\\RegisterClientValidate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T18:56:08.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T18:56:08.255Z"
             },
             {
               "$type": "Document",
@@ -557,8 +534,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Login\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:46:39.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:46:39.428Z"
             },
             {
               "$type": "Document",
@@ -570,8 +546,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Login\\LoginReponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:46:48.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:46:48.382Z"
             },
             {
               "$type": "Document",
@@ -583,8 +558,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Profiles\\Update\\ChangePass\\ChangePasswordHandler.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:38:31.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:38:31.135Z"
             },
             {
               "$type": "Document",
@@ -596,8 +570,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Profiles\\Update\\ChangePass\\ChangePasswordRequest.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:37:59.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:37:59.448Z"
             },
             {
               "$type": "Document",
@@ -609,8 +582,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Profiles\\Delete\\DeleteProfileHandler.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:22:57.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:22:57.322Z"
             },
             {
               "$type": "Document",
@@ -622,8 +594,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Profiles\\Delete\\DeleteProfileRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:22:31.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:22:31.308Z"
             },
             {
               "$type": "Document",
@@ -635,8 +606,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RefreshToken\\RefreshTokenReponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:11:09.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:11:09.036Z"
             },
             {
               "$type": "Document",
@@ -648,8 +618,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RefreshToken\\RefreshTokenValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:11:58.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:11:58.19Z"
             },
             {
               "$type": "Document",
@@ -661,8 +630,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RefreshToken\\RefreshTokenRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:11:00.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:11:00.841Z"
             },
             {
               "$type": "Document",
@@ -674,8 +642,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RegisterAdmin\\RegisterAdminHandler.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAwDkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:05:06.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:05:06.757Z"
             },
             {
               "$type": "Document",
@@ -687,8 +654,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RegisterAdmin\\RegisterAdminRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:04:55.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:04:55.283Z"
             },
             {
               "$type": "Document",
@@ -700,8 +666,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Register\\RegisterClientHandler.cs",
               "ViewState": "AgIAACoAAAAAAAAAAADwvz4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:01:56.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T07:01:56.752Z"
             },
             {
               "$type": "Document",
@@ -713,8 +678,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\RegisterAdmin\\RegisterAdminValidate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T19:05:18.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T19:05:18.918Z"
             },
             {
               "$type": "Document",
@@ -726,8 +690,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Register\\RegisterClientRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:01:49.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T07:01:49.989Z"
             },
             {
               "$type": "Document",
@@ -739,8 +702,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Exception\\RefreshTokenShouldNotBeExpiredException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T18:49:09.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T18:49:09.038Z"
             },
             {
               "$type": "Document",
@@ -752,8 +714,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Exception\\EmailOrPasswordShouldNotBeInvalidException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T18:48:40.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T18:48:40.895Z"
             },
             {
               "$type": "Document",
@@ -765,8 +726,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Exception\\EmailAddressShouldBeValidException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T18:48:15.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T18:48:15.597Z"
             },
             {
               "$type": "Document",
@@ -778,8 +738,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Exception\\AccountNotFound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T18:47:44.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T18:47:44.205Z"
             },
             {
               "$type": "Document",
@@ -791,8 +750,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\EcommerceAuth.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-24T16:29:31.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T16:29:31.442Z"
             },
             {
               "$type": "Document",
@@ -804,8 +762,7 @@
               "RelativeToolTip": "EcommerceAuth.Application\\Feature\\Exception\\UserAlreadyExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T09:42:58.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T09:42:58.216Z"
             },
             {
               "$type": "Document",
@@ -817,8 +774,7 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\Migrations\\20240821071017_up2.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T07:10:17.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T07:10:17.976Z"
             },
             {
               "$type": "Document",
@@ -830,8 +786,7 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\context\\AddDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:40:31.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T03:40:31.385Z"
             },
             {
               "$type": "Document",
@@ -843,8 +798,7 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\Token\\TokenServices.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAqwDYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T04:01:51.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T04:01:51.674Z"
             },
             {
               "$type": "Document",
@@ -856,8 +810,7 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\Token\\TokenSetting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T04:02:01.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T04:02:01.683Z"
             },
             {
               "$type": "Document",
@@ -869,8 +822,7 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\Interface\\ITokenServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T10:17:07.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T10:17:07.404Z"
             },
             {
               "$type": "Document",
@@ -882,8 +834,7 @@
               "RelativeToolTip": "EcommerceAuth.Infrastructure\\Migrations\\20240820035549_up1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:55:49.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T03:55:49.86Z"
             },
             {
               "$type": "Document",
@@ -895,8 +846,7 @@
               "RelativeToolTip": "EcommerceAuth.Domain\\Entity\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T03:27:49.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T03:27:49.797Z"
             }
           ]
         },

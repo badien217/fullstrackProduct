@@ -22,7 +22,6 @@ namespace ProductSolution.Presentation.Controllers
    
         }
         [HttpGet]
-
         public async Task<IActionResult> GetAllCateGory()
         {
             var response = await mediator.Send(new GetAllCategoryRequest());
@@ -31,7 +30,6 @@ namespace ProductSolution.Presentation.Controllers
 
         }
         [HttpPost]
-
         public async Task<IActionResult> GeCategoryById(GetByIdCategoryRequest request)
         {
             var reponser = await mediator.Send(request);
