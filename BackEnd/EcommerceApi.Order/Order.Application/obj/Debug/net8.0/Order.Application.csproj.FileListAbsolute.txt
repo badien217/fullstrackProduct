@@ -1,0 +1,32 @@
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\Order.Application.deps.json
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\Order.Application.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\Order.Application.pdb
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfoInputs.cache
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfo.cs
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.sourcelink.json
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\refint\Order.Application.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.pdb
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\ref\Order.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\Order.Application.deps.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\Order.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\Order.Application.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfoInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.AssemblyInfo.cs
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.sourcelink.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\refint\Order.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\ref\Order.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Application.csproj.AssemblyReference.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\BuildingBlock.Mapper.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\Order.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\BuildingBlock.Mapper.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\bin\Debug\net8.0\Order.Domain.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Order\Order.Application\obj\Debug\net8.0\Order.Ap.8554589A.Up2Date

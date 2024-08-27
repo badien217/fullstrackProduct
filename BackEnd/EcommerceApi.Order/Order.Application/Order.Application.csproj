@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Features\OrderDetails\" />
+    <Folder Include="Features\Order\GetOne\GetOrderByMonth\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\EcommerceApi.BuildingBlock\BuildingBlock.Mapper\BuildingBlock.Mapper.csproj" />
+    <ProjectReference Include="..\..\EcommerceAPI.LibraryCommon\EcommerceAPI.SharedLibrary\EcommerceAPI.SharedLibrary.csproj" />
+    <ProjectReference Include="..\Order.Domain\Order.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

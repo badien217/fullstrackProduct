@@ -1,0 +1,40 @@
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Application.deps.json
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Application.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Application.pdb
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Domain.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Domain.pdb
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.pdb
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.csproj.AssemblyReference.cache
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.AssemblyInfoInputs.cache
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.AssemblyInfo.cs
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductS.77876CF4.Up2Date
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\refint\ProductSolution.Application.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.pdb
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ref\ProductSolution.Application.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\BuildingBlock.Mapper.dll
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\BuildingBlock.Mapper.pdb
+C:\Users\Dien Bu's Cu's\OneDrive\Documents\Code\EcommerceShop\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.sourcelink.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\refint\ProductSolution.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Application.deps.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Application.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Application.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\BuildingBlock.Mapper.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Domain.dll
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\BuildingBlock.Mapper.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\ProductSolution.Domain.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\bin\Debug\net8.0\EcommerceAPI.SharedLibrary.pdb
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.csproj.AssemblyReference.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.AssemblyInfoInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.AssemblyInfo.cs
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.csproj.CoreCompileInputs.cache
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductSolution.Application.sourcelink.json
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ProductS.77876CF4.Up2Date
+C:\Users\DIEN\Code\fullstrackProduct\BackEnd\EcommerceApi.Product\ProductSolution.Application\obj\Debug\net8.0\ref\ProductSolution.Application.dll

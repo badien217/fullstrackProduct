@@ -1,0 +1,119 @@
+[
+  {
+    "ContainingType": "EcommerceAuth.Presentation.Controllers.AuthController",
+    "Method": "AuthRegister",
+    "RelativePath": "api/Auth/AuthRegister",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requeste",
+        "Type": "EcommerceAuth.Application.Feature.Register.RegisterClientRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcommerceAuth.Presentation.Controllers.AuthController",
+    "Method": "AuthRegisterAdmin",
+    "RelativePath": "api/Auth/AuthRegisterAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requeste",
+        "Type": "EcommerceAuth.Application.Feature.RegisterAdmin.RegisterAdminRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcommerceAuth.Presentation.Controllers.AuthController",
+    "Method": "Get",
+    "RelativePath": "api/Auth/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcommerceAuth.Presentation.Controllers.AuthController",
+    "Method": "getid",
+    "RelativePath": "api/Auth/getid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requeste",
+        "Type": "EcommerceAuth.Application.Feature.GetProfiles.GetProfileRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcommerceAuth.Presentation.Controllers.AuthController",
+    "Method": "login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requeste",
+        "Type": "EcommerceAuth.Application.Feature.Login.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcommerceAuth.Presentation.Controllers.AuthController",
+    "Method": "refrestoken",
+    "RelativePath": "api/Auth/refrestoken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requeste",
+        "Type": "EcommerceAuth.Application.Feature.RefreshToken.RefreshTokenRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcommerceAuth.Presentation.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EcommerceAuth.Presentation.WeatherForecast, EcommerceAuth.Presentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

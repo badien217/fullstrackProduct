@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\exceptions\\exceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\exceptions\\exceptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\exceptions\\configureexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\exceptions\\configureexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\behevior\\rediscachebehevior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\behevior\\rediscachebehevior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\behevior\\fluentvalidationbehevior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\behevior\\fluentvalidationbehevior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\ecommerceapi.sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\ecommerceapi.sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\sendmessage\\isendmessagerabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\interfaces\\sendmessage\\isendmessagerabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\interfaces\\automapper\\iautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\interfaces\\automapper\\iautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\base\\baserules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\base\\baserules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|c:\\users\\dien\\code\\fullstrackproduct\\backend\\ecommerceapi.librarycommon\\ecommerceapi.sharedlibrary\\base\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BE0B4B-2A3E-4C16-B165-2432B41388CC}|EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj|solutionrelative:ecommerceapi.sharedlibrary\\base\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\UnitOfWork\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Reponsitory\\IReponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 324,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisCacheBehevior.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\RedisCacheBehevior.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Behevior\\RedisCacheBehevior.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\RedisCacheBehevior.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Behevior\\RedisCacheBehevior.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T09:27:45.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EcommerceAPI.SharedLibrary",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\EcommerceAPI.SharedLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T09:19:34.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Registration.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Registration.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Registration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:03:44.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigureExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Exceptions\\ConfigureExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Exceptions\\ConfigureExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Exceptions\\ConfigureExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Exceptions\\ConfigureExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:06:14.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:11:32.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionModel.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Exceptions\\ExceptionModel.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Exceptions\\ExceptionModel.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Exceptions\\ExceptionModel.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Exceptions\\ExceptionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:08:23.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Interfaces\\AutoMapper\\IAutoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:56:34.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISendMessageRabbitMQ.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\SendMessage\\ISendMessageRabbitMQ.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Interfaces\\SendMessage\\ISendMessageRabbitMQ.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\SendMessage\\ISendMessageRabbitMQ.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Interfaces\\SendMessage\\ISendMessageRabbitMQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:01:06.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IReponsitory.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Reponsitory\\IReponsitory.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Reponsitory\\IReponsitory.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Reponsitory\\IReponsitory.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Reponsitory\\IReponsitory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:04:31.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FluentValidationBehevior.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\FluentValidationBehevior.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Behevior\\FluentValidationBehevior.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Behevior\\FluentValidationBehevior.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Behevior\\FluentValidationBehevior.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:23:08.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\Token\\ITokenServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:19:45.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Dien Bu\u0027s Cu\u0027s\\OneDrive\\Documents\\Code\\EcommerceShop\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Interfaces\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T09:28:22.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRules.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Base\\BaseRules.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Base\\BaseRules.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Base\\BaseRules.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Base\\BaseRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:04:10.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Base\\BaseException.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI.SharedLibrary\\Base\\BaseException.cs",
+              "ToolTip": "C:\\Users\\DIEN\\Code\\fullstrackProduct\\BackEnd\\EcommerceAPI.LibraryCommon\\EcommerceAPI.SharedLibrary\\Base\\BaseException.cs",
+              "RelativeToolTip": "EcommerceAPI.SharedLibrary\\Base\\BaseException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:02:59.317Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProductSolution.Presentation.props" />
+</Project>
