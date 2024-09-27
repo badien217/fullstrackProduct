@@ -61,15 +61,15 @@ Our backend is built on a solid foundation, designed for scalability, reliabilit
 - **CQRS Pattern**: Separates query and command functions to boost performance and maintainability.
 - **AutoMapper**: Efficiently maps objects to DTOs, streamlining request/response handling and enhancing flexibility. 
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/dddc8f27-d553-45f9-a3ff-da97b4367471" alt="AutoMapper" width="800"/>
+    <img src="https://github.com/user-attachments/assets/dddc8f27-d553-45f9-a3ff-da97b4367471" alt="AutoMapper" width="800" height = "500"/>
   </p>
 - **JWT Authentication**: Ensures secure login and role-based access, with **RefreshToken** and **Revoke** functionality for a seamless and secure user experience.
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/24c361b9-16ff-4aea-a40b-218ed05bd7c4" alt="JWT"width="800"/>
+    <img src="https://github.com/user-attachments/assets/24c361b9-16ff-4aea-a40b-218ed05bd7c4" alt="JWT"width="800" height = "500"/>
   </p>
 - **FluentValidation**: Provides robust validation for incoming requests, ensuring data integrity throughout the application.
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/57a3473a-8612-467b-baf1-cc134f6a53be" alt="FluentValidation" width="800"/>
+    <img src="https://github.com/user-attachments/assets/57a3473a-8612-467b-baf1-cc134f6a53be" alt="FluentValidation" width="800" height = "500"/>
   </p>
 
 ## 🎨 Design Patterns – Reliable and Scalable
